@@ -1,0 +1,70 @@
+MVTS V9.10 globals
+Recorded by MVTS itself (VINT9, VENVIRON), with generic answers
+^VENVIRON("#1 CLOSE")
+10
+^VENVIRON("#1 MODEL")
+file
+^VENVIRON("#1 OPEN")
+10
+^VENVIRON("#1 USE")
+10
+^VENVIRON("#2 CLOSE")
+11
+^VENVIRON("#2 MODEL")
+file
+^VENVIRON("#2 OPEN")
+11
+^VENVIRON("#2 USE")
+11
+^VENVIRON("#3 CLOSE")
+0
+^VENVIRON("#3 MODEL")
+principal device
+^VENVIRON("#3 OPEN")
+0
+^VENVIRON("#3 USE")
+0
+^VENVIRON("#4 CLOSE")
+vsr.log
+^VENVIRON("#4 OPEN")
+vsr.log
+^VENVIRON("#4 USE")
+vsr.log
+^VENVIRON("COMPLETE")
+67849,0
+^VENVIRON("Customer")
+Customer
+^VENVIRON("DEFAULT")
+0
+^VENVIRON("Date")
+Date
+^VENVIRON("Host")
+Host
+^VENVIRON("INPUT MODEL")
+principal device
+^VENVIRON("INPUT OPEN")
+0
+^VENVIRON("INPUT USE")
+0
+^VENVIRON("INTEGRITY")
+NOT OK
+^VENVIRON("Implementation")
+Implementation
+^VENVIRON("OUTPUT CLOSE")
+0
+^VENVIRON("OUTPUT MODEL")
+principal device
+^VENVIRON("OUTPUT OPEN")
+0
+^VENVIRON("OUTPUT USE")
+0
+^VENVIRON("Sales")
+Sales
+^VENVIRON("Site")
+Site
+^VENVIRON("TURNED ON")
+YES
+^VENVIRON("Target")
+Target
+^VENVIRON("Technical")
+Technical

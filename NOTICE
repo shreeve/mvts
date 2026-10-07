@@ -1,0 +1,9 @@
+The MVTS routines (mvts-9.10.rsa) are (c) 1978-1996 MUMPS Systems Laboratory,
+as each routine states. No license terms are known. The suite has been
+publicly available from several sources for more than two decades and is
+republished here unchanged, apart from the documented 2002 fix in V4PAT9
+(mvts-9.10-v4pat9.diff), for validating implementations of M.
+
+Everything else in this repository (the README, the globals in
+mvts-9.10.gsa, and the description of the V4PAT9 fix) is dedicated to the
+public domain under CC0 1.0: https://creativecommons.org/publicdomain/zero/1.0/
